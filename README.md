@@ -4,7 +4,7 @@
 
 A Ghidra extension that interfaces with Ollama to automatically summarize and comment every decompiled function in pseudo-C.
 
-![Ghidra Function Comment Example](comment-screenshot.png)
+![Ghidra Function Comment Example](Comment-Screenshot.png)
 
 ## Features
 - Automatically generates high-level function summaries using Ollama
@@ -71,4 +71,5 @@ Troubleshooting
 | Rate limiting | Ollama's default rate limit is 1 request/sec |
 
 ## License
+
 This project is licensed under the 3-clause BSD License - see [LICENSE.md](LICENSE.md) for details.
